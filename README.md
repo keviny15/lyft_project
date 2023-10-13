@@ -1,2 +1,2 @@
-# Starter Repo
-This repo has everything you need to get started on the program, good luck!
+# LYFT SOFTWARE ENGINEERING BACK END PROJECT
+October 2023 completion
